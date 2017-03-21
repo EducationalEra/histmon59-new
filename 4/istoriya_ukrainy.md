@@ -2,16 +2,13 @@
 
 # Історія України
 
-<b>Зміст розділу:</b><br>
-<ul type="circle">
-<li><a href="https://histmon59.ed-era.com/4/povtorennya_vstup.html">Повторення. Вступ</a></li>
-<li><a href="https://histmon59.ed-era.com/4/rus_ukraina.html">Виникнення та становлення Русі-України</a></li>
-<li><a href="https://histmon59.ed-era.com/4/kievska_derzhava.html">Київська держава (Русь-Україна) наприкінці Х – у першій половині ХІ ст.</a></li>
-<li><a href="https://histmon59.ed-era.com/4/kievska_derzhava_xi_xiii.html">Київська держава (Русь-Україна) у другій половині ХІ – першій половині ХІІІ ст.</a></li>
-<li><a href="https://histmon59.ed-era.com/4/galycko_valynska_derzhava.html">Галицько-Волинська держава</a></li>
-<li><a href="https://histmon59.ed-era.com/4/ukr_zemly_u_sklady_vkl_ta_inshych_derzhav.html">Українські землі у складі Великого князівства Литовського та інших держав (друга половина ХІV – ХV ст.)</a></li>
-<li><a href="https://histmon59.ed-era.com/4/uzagalnennya.html">Узагальнення  до курсу</a></li>
-</ul>
+<p><strong><em>Структура курсу:</em></strong></p>
+<p>Розділ 1. <em>Виникнення та становлення Русі-України</em></p>
+<p>Розділ 2. <em>Київська держава (Русь-Україна) наприкінці Х</em><em>&nbsp;&ndash; у першій половині ХІ</em><em>&nbsp;</em><em>ст.</em></p>
+<p>Розділ 3. <em>Київська держава у другій половині ХІ</em><em>&nbsp;&ndash; першій половині ХІІ</em><em>&nbsp;</em><em>ст.</em></p>
+<p>Розділ 4. <em>Королівство Руське (Галицько-Волинська держава)</em></p>
+<p>Розділ 5. <em>Руські удільні князівства у складі сусідніх держав. Кримське ханство</em></p>
+<p>Узагальнення до курсу.<em> Історія України княжої доби в контексті епохи Середніх віків</em></p>
 
 <div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>

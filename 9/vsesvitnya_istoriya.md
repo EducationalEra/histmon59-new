@@ -2,16 +2,14 @@
 
 # Всесвітня історія
 
-<b>Зміст розділу:</b><br>
-<ul type="circle">
-<li><a href="https://histmon59.ed-era.com/9/vstup.html">Вступ</a></li>
-<li><a href="https://histmon59.ed-era.com/9/velyka_francuzka_revolyuciya.html">Велика французька революція кінця ХVІІІ ст. Європа в період наполеонівських війн</a></li>
-<li><a href="https://histmon59.ed-era.com/9/evropa_ta_amerika.html">Європа й Америка в першій половині XIX ст.</a></li>
-<li><a href="https://histmon59.ed-era.com/9/evropa_ta_amerika_u_dobu_obyednannya_ta_modernizaciyi_suspilstva.html">Європа й Америка у добу об’єднання і модернізації суспільства</a></li>
-<li><a href="https://histmon59.ed-era.com/9/utverdzhennya_industrialnogo_suspilstva.html">Утвердження індустріального суспільства в провідних державах світу</a></li>
-<li><a href="https://histmon59.ed-era.com/9/mizhnarodny_vidnosyny.html">Завершення формування світових колоніальних імперій. Міжнародні відносини в останній третині ХІХ ст.</a></li>
-<li><a href="https://histmon59.ed-era.com/9/kultura_narodyv_svitu.html">Культура народів світу наприкінці ХVІІІ — у ХІХ ст.</a></li>
-</ul>
+<p><strong><em>Структура курсу:</em></strong></p>
+<p><em>Повторення. Вступ</em></p>
+<p>Розділ 1. <em>Європа наприкінці ХVІІІ &ndash; на початку ХІХ ст.</em></p>
+<p>Розділ 2. <em>Європа та Америка в добу революцій і національного об&rsquo;єднання (1815&ndash;1870 рр.)</em></p>
+<p>Розділ 3. <em>Європа та Америка в останній третині ХІХ &ndash; на початку ХХ ст.</em></p>
+<p>Розділ 4. <em>Пробудження Азії. Міжнародні відносини (друга половина ХІХ &ndash; початок ХХ</em><em>&nbsp;</em><em>ст.)</em></p>
+<p>Розділ 5. <em>Розвиток культури та повсякденне життя (кінець ХVІІІ &ndash; початок ХХ</em><em>&nbsp;</em><em>ст.)</em></p>
+<p>Узагальнення до курсу. <em>Основні ідеї, здобутки, виклики &laquo;довгого&raquo; </em><em>XIX</em><em> століття</em></p>
 
 <div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>

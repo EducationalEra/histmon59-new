@@ -2,16 +2,13 @@
 
 # Історія України
 
-<b>Зміст розділу:</b><br>
-<ul type="circle">
-<li><a href="https://histmon59.ed-era.com/6/povtorennya_vstup.html">Вступ</a></li>
-<li><a href="https://histmon59.ed-era.com/6/ukr_zemli_v_xvi_st.html">Українські землі в ХVІ ст.</a></li>
-<li><a href="https://histmon59.ed-era.com/6/ukr_zemli_v_xvi_xvii_st.html">Українські землі наприкінці ХVІ – у першій половині ХVІІ ст.</a></li>
-<li><a href="https://histmon59.ed-era.com/6/nacionalno_vyzvolna_viyna.html">Національно-визвольна війна українського народу середини XVII ст.</a></li>
-<li><a href="https://histmon59.ed-era.com/6/ukr_zemli_v_xvii_xviii_st.html">Українські землі наприкінці 50-х років ХVІІ – на початку ХVІІІ ст.</a></li>
-<li><a href="https://histmon59.ed-era.com/6/ukr_zemli_v_20_90_rokach_xviii_st.html">Українські землі у 20–90-х рр. ХVІІІ ст.</a></li>
-<li><a href="https://histmon59.ed-era.com/6/uzagalnennya.html">Узагальнення  до курсу</a></li>
-</ul>
+<p><strong><em>Структура курсу:</em></strong></p>
+<p>Узагальнення до курсу.<em> Історія України козацької доби в контексті епохи раннього нового часу</em></p>
+<p>Розділ&nbsp;1. <em>Землі України у складі Речі Посполитої</em></p>
+<p>Розділ&nbsp;2. <em>Становлення козацтва (XVI &ndash; перша половина XVII ст.)</em></p>
+<p>Розділ&nbsp;3. <em>Національно-визвольна війна українського народу середини XVII ст.</em></p>
+<p>Розділ&nbsp;4. <em>Козацька Україна наприкінці 50-х&nbsp;років XVII &ndash; на початку XVIII ст.</em></p>
+<p>Розділ&nbsp;5. <em>Українські землі в 20&ndash;90-х&nbsp;роках XVIII ст.</em></p>
 
 <div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
